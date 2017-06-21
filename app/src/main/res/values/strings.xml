@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireChat</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Login</string>
+    <string name="sign_out">Logout</string>
+    <string name="action_add_photo">Add Photo</string>
+</resources>
