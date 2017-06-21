@@ -59,3 +59,4 @@ google-services.json
 
 .DS_Store
 /.firebaserc
+/functions/node_modules/
